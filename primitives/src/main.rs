@@ -8,6 +8,10 @@ fn main() {
     println!("something before = {something}");
     something = 41;
     println!("something after = {something}");
+
+    //this is string 
+    let _string: &str = "Rushikesh is my name";
+    println!("string = {_string}");
 }
 
 
